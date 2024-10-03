@@ -17,7 +17,7 @@
 - 🎓 Software Engineering student at *Adventist University Of Central Africa (AUCA)*
 - 💻 Passionate about creating efficient and innovative software solutions
 - 🌱 Currently focusing on expanding my skills in software design and development
-- 🎵 Fun fact: I'm also a musician! Check out my YouTube channel
+- 🎵 Fun fact: I'm also a coding
 - 💡 Always excited to work on challenging projects and collaborate with fellow developers
 
 ## 🛠️ My Skills
