@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+ISHIMWE+Patience;Software+Engineering+Student;Aspiring+Software+Developer;Musician;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+IZERE+INEZA+PROMISE;Software+Engineering+Student;Aspiring+Software+Developer;CODING;&center=true&width=380&height=45"></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ishimwe-patience-514451230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
