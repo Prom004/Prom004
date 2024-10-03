@@ -13,7 +13,7 @@ promise-ineza-izere-794286285"><img src="https://img.shields.io/badge/LinkedIn-0
 - 🎓 Software Engineering student at *Adventist University Of Central Africa (AUCA)*
 - 💻 Passionate about creating efficient and innovative software solutions
 - 🌱 Currently focusing on expanding my skills in software design and development
-- 🎵 Fun fact: I'm also a coding
+- 🎵 Fun fact: I'm also a reader
 - 💡 Always excited to work on challenging projects and collaborate with fellow developers
 
 ## 🛠️ My Skills
