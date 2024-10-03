@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ishimwe-patience-514451230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ishimwepatience102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://youtube.com/@augstinishimwe9422"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+ </a>
 </p>
 
 ## 👨‍💻 About Me
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshimwePatience&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prom004&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IshimwePatience&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Prom004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
